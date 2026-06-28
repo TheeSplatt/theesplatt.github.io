@@ -11,3 +11,5 @@ async function getIP() {
         console.error('Error fetching IP address:', error);
     }
 }
+
+getIP()
